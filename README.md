@@ -1,2 +1,2 @@
-# data-structures-algorithms
+# Data Structures Algorithms
 Learning DSA in C
